@@ -11,6 +11,10 @@ body {
 
 .title {
   background: #e3f4ff;
+  padding: 5px;
+  border-top: 25px solid white;
+  border-right: 10px solid white;
+  border-left: 10px solid white;
 }
 
 .content {
